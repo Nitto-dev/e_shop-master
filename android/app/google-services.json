@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628941891801",
+    "project_id": "eshop-651d7",
+    "storage_bucket": "eshop-651d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628941891801:android:1f362aef606b63de6fb6c8",
+        "android_client_info": {
+          "package_name": "com.nitto.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628941891801-1p0ss1ldr7s61c0vo5tpsnm96hrk48s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2dbpevbsVfQ9DbKXkcG3pEKJpLzgW8R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628941891801-1p0ss1ldr7s61c0vo5tpsnm96hrk48s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
